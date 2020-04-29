@@ -1,0 +1,108 @@
+body{
+margin: 0px;
+}
+
+.titulo{
+    font-family: Copperplate,arial,helvetica;
+    margin-top: 100px;
+font-size: 45px;
+    text-align: center;
+
+
+}
+
+#corpo{
+ margin-top: 0px;
+ width: auto;
+height: 1050px;
+background-image: url(img/posto.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+#corpo2{
+color: blanchedalmond;
+height: 1050px;
+width: auto;
+background-color: rgba(0,0,0,.8)
+
+}
+
+
+.logo img{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+    height: auto ;
+    width: 150px;
+
+}
+
+
+
+.textos{
+
+    text-align: center;
+    position: center;
+
+
+}
+.textos select{
+
+    width: 195px;
+    height: 25px;
+    }
+    
+    }
+.textos li{
+
+    text-align: center;
+
+}
+
+.calculo{
+margin-top: 50px;    
+text-align: center;
+}
+
+.formulario{
+ text-align: center;
+   height: 200px;
+   width: auto; 
+}
+
+.form1{
+    margin-top: 55px;
+margin-bottom: 15px;
+
+}
+
+.form2{
+
+margin-left: -15px;
+
+}
+
+.botao{
+margin-left: 375px;
+margin-top: 19px;
+
+}
+
+
+input[type=submit]{
+
+background-color: red;
+color: white;
+border: 2px solid red;
+border-radius: 10%;
+width: auto;
+height:35px;
+
+}
+
+
+input[type=submit]:hover { 
+    background-color: black;
+    color: red;
+     }
